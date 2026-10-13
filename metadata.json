@@ -1,0 +1,6 @@
+{
+  "name": "K&A Cookies - New York Cookies Costa Rica",
+  "description": "Galletas estilo New York artesanales en Costa Rica. Deliciosas, recién horneadas y listas para pedir por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
